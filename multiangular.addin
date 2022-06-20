@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\multiangular.dll"</Assembly>
+		<AddInId>796304EE-4FC7-47A8-9873-9578DE9919A1</AddInId>
+		<FullClassName>multiangular.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание cтен</Text>
+	</AddIn>
+</RevitAddIns>
